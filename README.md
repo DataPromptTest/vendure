@@ -112,3 +112,4 @@ Vendure is open source under the [GPLv3 license](./LICENSE.md). Building against
 # Professional services
 
 Need help getting your build to production? Our team offers [professional services](https://vendure.io/services): architecture review, implementation support, and launch readiness from the people who build Vendure.
+
